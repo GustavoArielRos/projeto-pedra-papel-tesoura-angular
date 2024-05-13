@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'aula1';
+  
+  lista: Array<number> = [11,2];
+
 }
